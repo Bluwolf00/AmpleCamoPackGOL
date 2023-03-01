@@ -1,0 +1,12 @@
+name = "Ample Camo Pack - GOL Version";
+author = "Seb";
+actionName = "Website";
+action = "http://www.carpenoctem.co";
+description = "Github: https://github.com/Seb105/Arma-acp";
+tooltip = "acp_gol";
+tooltipOwned = "acp_gol";
+overview = "acp_gol";
+overviewText = "acp_gol Overview";
+logoSmall	 = "logoSmall.paa";	    // Display next to the item added by the mod
+logo		 = "logo.paa";			// Logo displayed in the main menu
+logoOver	 = "logoSmall.paa";	
